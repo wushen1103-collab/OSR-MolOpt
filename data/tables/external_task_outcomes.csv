@@ -1,0 +1,55 @@
+dual_success,margin_gain,method,orientation,row_id,selected_pair_has_10000nM_value,severe_dual_degradation,target_gain,task
+False,0.0,HIST-SAFE,1.0,Davis:AKT1:AKT2:08,True,False,0.0,Davis:AKT1:AKT2
+False,0.0,HIST-SAFE,1.0,Davis:CAMK1:CAMK1D:08,True,False,0.0,Davis:CAMK1:CAMK1D
+False,-0.34678748622465605,HIST-SAFE,1.0,Davis:CAMK2A:CAMK2D:07,True,True,-0.34678748622465605,Davis:CAMK2A:CAMK2D
+False,-0.7269987279362624,HIST-SAFE,1.0,Davis:CLK1:CLK4:07,True,True,-1.2218487496163561,Davis:CLK1:CLK4
+False,0.5623872865640109,HIST-SAFE,-1.0,Davis:CSNK1D:CSNK1E:09,True,False,-0.6382721639824069,Davis:CSNK1D:CSNK1E
+False,-0.0,HIST-SAFE,-1.0,Davis:CSNK1G1:CSNK1G2:06,True,False,-0.0,Davis:CSNK1G1:CSNK1G2
+False,-0.16461144137225148,HIST-SAFE,1.0,Davis:CSNK2A1:CSNK2A2:09,True,False,0.9208187539523749,Davis:CSNK2A1:CSNK2A2
+False,0.0,HIST-SAFE,1.0,Davis:JNK1:JNK3:08,True,False,0.0,Davis:JNK1:JNK3
+False,-0.5086383061657269,HIST-SAFE,1.0,Davis:MEK1:MEK2:08,True,False,0.0,Davis:MEK1:MEK2
+False,0.0,Vina-MO,1.0,Davis:AKT1:AKT2:09,True,False,0.0,Davis:AKT1:AKT2
+False,0.421852166077449,Vina-MO,-1.0,Davis:CAMK1:CAMK1D:09,True,False,-0.8538719643217618,Davis:CAMK1:CAMK1D
+False,-0.5623872865640109,Vina-MO,-1.0,Davis:CAMK2A:CAMK2D:06,True,True,-0.34678748622465605,Davis:CAMK2A:CAMK2D
+False,-0.11598389395537367,Vina-MO,1.0,Davis:CLK1:CLK4:09,True,False,2.1938200260161125,Davis:CLK1:CLK4
+True,1.1987834455476634,Vina-MO,-1.0,Davis:CSNK1D:CSNK1E:07,True,False,1.6197887582883936,Davis:CSNK1D:CSNK1E
+False,-0.18045606445813078,Vina-MO,1.0,Davis:CSNK1G1:CSNK1G2:07,True,False,0.0,Davis:CSNK1G1:CSNK1G2
+False,0.1739251972991731,Vina-MO,-1.0,Davis:CSNK2A1:CSNK2A2:06,True,False,-0.0,Davis:CSNK2A1:CSNK2A2
+False,0.0,Vina-MO,1.0,Davis:JNK1:JNK3:08,True,False,0.0,Davis:JNK1:JNK3
+False,0.0,Vina-MO,1.0,Davis:MEK1:MEK2:11,True,False,0.0,Davis:MEK1:MEK2
+False,0.0,cross-campaign Hist no residual,1.0,Davis:AKT1:AKT2:11,True,False,0.0,Davis:AKT1:AKT2
+False,0.0,cross-campaign Hist no residual,1.0,Davis:CAMK1:CAMK1D:08,True,False,0.0,Davis:CAMK1:CAMK1D
+False,0.0,cross-campaign Hist no residual,1.0,Davis:CAMK2A:CAMK2D:08,True,False,0.0,Davis:CAMK2A:CAMK2D
+False,0.0,cross-campaign Hist no residual,1.0,Davis:CLK1:CLK4:11,True,False,0.0,Davis:CLK1:CLK4
+False,0.5623872865640109,cross-campaign Hist no residual,-1.0,Davis:CSNK1D:CSNK1E:09,True,False,-0.6382721639824069,Davis:CSNK1D:CSNK1E
+False,-0.18045606445813078,cross-campaign Hist no residual,1.0,Davis:CSNK1G1:CSNK1G2:07,True,False,0.0,Davis:CSNK1G1:CSNK1G2
+False,-0.16461144137225148,cross-campaign Hist no residual,1.0,Davis:CSNK2A1:CSNK2A2:09,True,False,0.9208187539523749,Davis:CSNK2A1:CSNK2A2
+False,0.0,cross-campaign Hist no residual,1.0,Davis:JNK1:JNK3:08,True,False,0.0,Davis:JNK1:JNK3
+False,-0.5086383061657269,cross-campaign Hist no residual,1.0,Davis:MEK1:MEK2:08,True,False,0.0,Davis:MEK1:MEK2
+False,-0.06048074738138176,cross-campaign Ridge no residual,1.0,Davis:AKT1:AKT2:06,True,False,0.0,Davis:AKT1:AKT2
+False,1.0078253375119566,cross-campaign Ridge no residual,1.0,Davis:CAMK1:CAMK1D:07,True,False,0.0,Davis:CAMK1:CAMK1D
+False,-0.5623872865640109,cross-campaign Ridge no residual,-1.0,Davis:CAMK2A:CAMK2D:06,True,True,-0.34678748622465605,Davis:CAMK2A:CAMK2D
+False,-0.1768375979262533,cross-campaign Ridge no residual,1.0,Davis:CLK1:CLK4:06,False,True,-0.25147121622315716,Davis:CLK1:CLK4
+False,0.0,cross-campaign Ridge no residual,1.0,Davis:CSNK1D:CSNK1E:06,True,False,0.0,Davis:CSNK1D:CSNK1E
+False,-0.0,cross-campaign Ridge no residual,-1.0,Davis:CSNK1G1:CSNK1G2:06,True,False,-0.0,Davis:CSNK1G1:CSNK1G2
+False,-0.1739251972991731,cross-campaign Ridge no residual,1.0,Davis:CSNK2A1:CSNK2A2:06,True,False,0.0,Davis:CSNK2A1:CSNK2A2
+False,0.0,cross-campaign Ridge no residual,1.0,Davis:JNK1:JNK3:08,True,False,0.0,Davis:JNK1:JNK3
+False,0.0,cross-campaign Ridge no residual,1.0,Davis:MEK1:MEK2:06,True,False,0.0,Davis:MEK1:MEK2
+False,0.0,six-shot Ridge,1.0,Davis:AKT1:AKT2:09,True,False,0.0,Davis:AKT1:AKT2
+False,1.0078253375119566,six-shot Ridge,1.0,Davis:CAMK1:CAMK1D:07,True,False,0.0,Davis:CAMK1:CAMK1D
+False,-0.34678748622465605,six-shot Ridge,1.0,Davis:CAMK2A:CAMK2D:07,True,True,-0.34678748622465605,Davis:CAMK2A:CAMK2D
+False,-0.7269987279362624,six-shot Ridge,1.0,Davis:CLK1:CLK4:07,True,True,-1.2218487496163561,Davis:CLK1:CLK4
+False,0.0,six-shot Ridge,1.0,Davis:CSNK1D:CSNK1E:11,True,False,0.0,Davis:CSNK1D:CSNK1E
+False,-0.0,six-shot Ridge,-1.0,Davis:CSNK1G1:CSNK1G2:06,True,False,-0.0,Davis:CSNK1G1:CSNK1G2
+False,0.0,six-shot Ridge,1.0,Davis:CSNK2A1:CSNK2A2:08,True,False,0.0,Davis:CSNK2A1:CSNK2A2
+False,0.0,six-shot Ridge,1.0,Davis:JNK1:JNK3:08,True,False,0.0,Davis:JNK1:JNK3
+False,0.0,six-shot Ridge,1.0,Davis:MEK1:MEK2:11,True,False,0.0,Davis:MEK1:MEK2
+False,0.0,six-shot Theil-Sen,1.0,Davis:AKT1:AKT2:09,True,False,0.0,Davis:AKT1:AKT2
+False,0.0,six-shot Theil-Sen,1.0,Davis:CAMK1:CAMK1D:10,True,False,0.0,Davis:CAMK1:CAMK1D
+False,0.0,six-shot Theil-Sen,1.0,Davis:CAMK2A:CAMK2D:11,True,False,0.0,Davis:CAMK2A:CAMK2D
+False,0.0,six-shot Theil-Sen,1.0,Davis:CLK1:CLK4:10,True,False,0.0,Davis:CLK1:CLK4
+False,-0.0,six-shot Theil-Sen,-1.0,Davis:CSNK1D:CSNK1E:06,True,False,-0.0,Davis:CSNK1D:CSNK1E
+False,-0.0,six-shot Theil-Sen,-1.0,Davis:CSNK1G1:CSNK1G2:06,True,False,-0.0,Davis:CSNK1G1:CSNK1G2
+False,0.16461144137225148,six-shot Theil-Sen,-1.0,Davis:CSNK2A1:CSNK2A2:09,True,False,-0.9208187539523749,Davis:CSNK2A1:CSNK2A2
+False,0.0,six-shot Theil-Sen,1.0,Davis:JNK1:JNK3:08,True,False,0.0,Davis:JNK1:JNK3
+False,0.0,six-shot Theil-Sen,1.0,Davis:MEK1:MEK2:11,True,False,0.0,Davis:MEK1:MEK2

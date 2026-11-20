@@ -1,0 +1,109 @@
+method,task,row_id,orientation,endpoint,lower,upper,sign
+HIST-SAFE,Davis:AKT1:AKT2,Davis:AKT1:AKT2:08,1.0,target,-inf,+inf,indeterminate
+HIST-SAFE,Davis:AKT1:AKT2,Davis:AKT1:AKT2:08,1.0,margin,-inf,+inf,indeterminate
+HIST-SAFE,Davis:CAMK1:CAMK1D,Davis:CAMK1:CAMK1D:08,1.0,target,-inf,+inf,indeterminate
+HIST-SAFE,Davis:CAMK1:CAMK1D,Davis:CAMK1:CAMK1D:08,1.0,margin,-inf,+inf,indeterminate
+HIST-SAFE,Davis:CAMK2A:CAMK2D,Davis:CAMK2A:CAMK2D:07,1.0,target,-inf,-0.34678748622465605,negative
+HIST-SAFE,Davis:CAMK2A:CAMK2D,Davis:CAMK2A:CAMK2D:07,1.0,margin,-inf,+inf,indeterminate
+HIST-SAFE,Davis:CLK1:CLK4,Davis:CLK1:CLK4:07,1.0,target,-inf,-1.2218487496163561,negative
+HIST-SAFE,Davis:CLK1:CLK4,Davis:CLK1:CLK4:07,1.0,margin,-inf,+inf,indeterminate
+HIST-SAFE,Davis:CSNK1D:CSNK1E,Davis:CSNK1D:CSNK1E:09,-1.0,target,-inf,-0.6382721639824069,negative
+HIST-SAFE,Davis:CSNK1D:CSNK1E,Davis:CSNK1D:CSNK1E:09,-1.0,margin,-inf,+inf,indeterminate
+HIST-SAFE,Davis:CSNK1G1:CSNK1G2,Davis:CSNK1G1:CSNK1G2:06,-1.0,target,-inf,+inf,indeterminate
+HIST-SAFE,Davis:CSNK1G1:CSNK1G2,Davis:CSNK1G1:CSNK1G2:06,-1.0,margin,-inf,+inf,indeterminate
+HIST-SAFE,Davis:CSNK2A1:CSNK2A2,Davis:CSNK2A1:CSNK2A2:09,1.0,target,0.9208187539523749,+inf,positive
+HIST-SAFE,Davis:CSNK2A1:CSNK2A2,Davis:CSNK2A1:CSNK2A2:09,1.0,margin,-0.16461144137225148,+inf,indeterminate
+HIST-SAFE,Davis:JNK1:JNK3,Davis:JNK1:JNK3:08,1.0,target,-inf,+inf,indeterminate
+HIST-SAFE,Davis:JNK1:JNK3,Davis:JNK1:JNK3:08,1.0,margin,-inf,+inf,indeterminate
+HIST-SAFE,Davis:MEK1:MEK2,Davis:MEK1:MEK2:08,1.0,target,-inf,+inf,indeterminate
+HIST-SAFE,Davis:MEK1:MEK2,Davis:MEK1:MEK2:08,1.0,margin,-inf,+inf,indeterminate
+Vina-MO,Davis:AKT1:AKT2,Davis:AKT1:AKT2:09,1.0,target,-inf,+inf,indeterminate
+Vina-MO,Davis:AKT1:AKT2,Davis:AKT1:AKT2:09,1.0,margin,-inf,+inf,indeterminate
+Vina-MO,Davis:CAMK1:CAMK1D,Davis:CAMK1:CAMK1D:09,-1.0,target,-inf,-0.8538719643217618,negative
+Vina-MO,Davis:CAMK1:CAMK1D,Davis:CAMK1:CAMK1D:09,-1.0,margin,-inf,+inf,indeterminate
+Vina-MO,Davis:CAMK2A:CAMK2D,Davis:CAMK2A:CAMK2D:06,-1.0,target,-inf,-0.34678748622465605,negative
+Vina-MO,Davis:CAMK2A:CAMK2D,Davis:CAMK2A:CAMK2D:06,-1.0,margin,-inf,-0.5623872865640109,negative
+Vina-MO,Davis:CLK1:CLK4,Davis:CLK1:CLK4:09,1.0,target,2.1938200260161125,+inf,positive
+Vina-MO,Davis:CLK1:CLK4,Davis:CLK1:CLK4:09,1.0,margin,-inf,+inf,indeterminate
+Vina-MO,Davis:CSNK1D:CSNK1E,Davis:CSNK1D:CSNK1E:07,-1.0,target,1.6197887582883936,+inf,positive
+Vina-MO,Davis:CSNK1D:CSNK1E,Davis:CSNK1D:CSNK1E:07,-1.0,margin,1.1987834455476634,+inf,positive
+Vina-MO,Davis:CSNK1G1:CSNK1G2,Davis:CSNK1G1:CSNK1G2:07,1.0,target,-inf,+inf,indeterminate
+Vina-MO,Davis:CSNK1G1:CSNK1G2,Davis:CSNK1G1:CSNK1G2:07,1.0,margin,-inf,+inf,indeterminate
+Vina-MO,Davis:CSNK2A1:CSNK2A2,Davis:CSNK2A1:CSNK2A2:06,-1.0,target,-inf,+inf,indeterminate
+Vina-MO,Davis:CSNK2A1:CSNK2A2,Davis:CSNK2A1:CSNK2A2:06,-1.0,margin,-inf,+inf,indeterminate
+Vina-MO,Davis:JNK1:JNK3,Davis:JNK1:JNK3:08,1.0,target,-inf,+inf,indeterminate
+Vina-MO,Davis:JNK1:JNK3,Davis:JNK1:JNK3:08,1.0,margin,-inf,+inf,indeterminate
+Vina-MO,Davis:MEK1:MEK2,Davis:MEK1:MEK2:11,1.0,target,-inf,+inf,indeterminate
+Vina-MO,Davis:MEK1:MEK2,Davis:MEK1:MEK2:11,1.0,margin,-inf,+inf,indeterminate
+cross-campaign Hist no residual,Davis:AKT1:AKT2,Davis:AKT1:AKT2:11,1.0,target,-inf,+inf,indeterminate
+cross-campaign Hist no residual,Davis:AKT1:AKT2,Davis:AKT1:AKT2:11,1.0,margin,-inf,+inf,indeterminate
+cross-campaign Hist no residual,Davis:CAMK1:CAMK1D,Davis:CAMK1:CAMK1D:08,1.0,target,-inf,+inf,indeterminate
+cross-campaign Hist no residual,Davis:CAMK1:CAMK1D,Davis:CAMK1:CAMK1D:08,1.0,margin,-inf,+inf,indeterminate
+cross-campaign Hist no residual,Davis:CAMK2A:CAMK2D,Davis:CAMK2A:CAMK2D:08,1.0,target,-inf,+inf,indeterminate
+cross-campaign Hist no residual,Davis:CAMK2A:CAMK2D,Davis:CAMK2A:CAMK2D:08,1.0,margin,-inf,+inf,indeterminate
+cross-campaign Hist no residual,Davis:CLK1:CLK4,Davis:CLK1:CLK4:11,1.0,target,-inf,+inf,indeterminate
+cross-campaign Hist no residual,Davis:CLK1:CLK4,Davis:CLK1:CLK4:11,1.0,margin,-inf,+inf,indeterminate
+cross-campaign Hist no residual,Davis:CSNK1D:CSNK1E,Davis:CSNK1D:CSNK1E:09,-1.0,target,-inf,-0.6382721639824069,negative
+cross-campaign Hist no residual,Davis:CSNK1D:CSNK1E,Davis:CSNK1D:CSNK1E:09,-1.0,margin,-inf,+inf,indeterminate
+cross-campaign Hist no residual,Davis:CSNK1G1:CSNK1G2,Davis:CSNK1G1:CSNK1G2:07,1.0,target,-inf,+inf,indeterminate
+cross-campaign Hist no residual,Davis:CSNK1G1:CSNK1G2,Davis:CSNK1G1:CSNK1G2:07,1.0,margin,-inf,+inf,indeterminate
+cross-campaign Hist no residual,Davis:CSNK2A1:CSNK2A2,Davis:CSNK2A1:CSNK2A2:09,1.0,target,0.9208187539523749,+inf,positive
+cross-campaign Hist no residual,Davis:CSNK2A1:CSNK2A2,Davis:CSNK2A1:CSNK2A2:09,1.0,margin,-0.16461144137225148,+inf,indeterminate
+cross-campaign Hist no residual,Davis:JNK1:JNK3,Davis:JNK1:JNK3:08,1.0,target,-inf,+inf,indeterminate
+cross-campaign Hist no residual,Davis:JNK1:JNK3,Davis:JNK1:JNK3:08,1.0,margin,-inf,+inf,indeterminate
+cross-campaign Hist no residual,Davis:MEK1:MEK2,Davis:MEK1:MEK2:08,1.0,target,-inf,+inf,indeterminate
+cross-campaign Hist no residual,Davis:MEK1:MEK2,Davis:MEK1:MEK2:08,1.0,margin,-inf,+inf,indeterminate
+cross-campaign Ridge no residual,Davis:AKT1:AKT2,Davis:AKT1:AKT2:06,1.0,target,-inf,+inf,indeterminate
+cross-campaign Ridge no residual,Davis:AKT1:AKT2,Davis:AKT1:AKT2:06,1.0,margin,-inf,+inf,indeterminate
+cross-campaign Ridge no residual,Davis:CAMK1:CAMK1D,Davis:CAMK1:CAMK1D:07,1.0,target,-inf,+inf,indeterminate
+cross-campaign Ridge no residual,Davis:CAMK1:CAMK1D,Davis:CAMK1:CAMK1D:07,1.0,margin,-inf,+inf,indeterminate
+cross-campaign Ridge no residual,Davis:CAMK2A:CAMK2D,Davis:CAMK2A:CAMK2D:06,-1.0,target,-inf,-0.34678748622465605,negative
+cross-campaign Ridge no residual,Davis:CAMK2A:CAMK2D,Davis:CAMK2A:CAMK2D:06,-1.0,margin,-inf,-0.5623872865640109,negative
+cross-campaign Ridge no residual,Davis:CLK1:CLK4,Davis:CLK1:CLK4:06,1.0,target,-0.25147121622315716,-0.25147121622315716,negative
+cross-campaign Ridge no residual,Davis:CLK1:CLK4,Davis:CLK1:CLK4:06,1.0,margin,-0.1768375979262533,-0.1768375979262533,negative
+cross-campaign Ridge no residual,Davis:CSNK1D:CSNK1E,Davis:CSNK1D:CSNK1E:06,1.0,target,-inf,+inf,indeterminate
+cross-campaign Ridge no residual,Davis:CSNK1D:CSNK1E,Davis:CSNK1D:CSNK1E:06,1.0,margin,-inf,+inf,indeterminate
+cross-campaign Ridge no residual,Davis:CSNK1G1:CSNK1G2,Davis:CSNK1G1:CSNK1G2:06,-1.0,target,-inf,+inf,indeterminate
+cross-campaign Ridge no residual,Davis:CSNK1G1:CSNK1G2,Davis:CSNK1G1:CSNK1G2:06,-1.0,margin,-inf,+inf,indeterminate
+cross-campaign Ridge no residual,Davis:CSNK2A1:CSNK2A2,Davis:CSNK2A1:CSNK2A2:06,1.0,target,-inf,+inf,indeterminate
+cross-campaign Ridge no residual,Davis:CSNK2A1:CSNK2A2,Davis:CSNK2A1:CSNK2A2:06,1.0,margin,-inf,+inf,indeterminate
+cross-campaign Ridge no residual,Davis:JNK1:JNK3,Davis:JNK1:JNK3:08,1.0,target,-inf,+inf,indeterminate
+cross-campaign Ridge no residual,Davis:JNK1:JNK3,Davis:JNK1:JNK3:08,1.0,margin,-inf,+inf,indeterminate
+cross-campaign Ridge no residual,Davis:MEK1:MEK2,Davis:MEK1:MEK2:06,1.0,target,-inf,+inf,indeterminate
+cross-campaign Ridge no residual,Davis:MEK1:MEK2,Davis:MEK1:MEK2:06,1.0,margin,-inf,+inf,indeterminate
+six-shot Ridge,Davis:AKT1:AKT2,Davis:AKT1:AKT2:09,1.0,target,-inf,+inf,indeterminate
+six-shot Ridge,Davis:AKT1:AKT2,Davis:AKT1:AKT2:09,1.0,margin,-inf,+inf,indeterminate
+six-shot Ridge,Davis:CAMK1:CAMK1D,Davis:CAMK1:CAMK1D:07,1.0,target,-inf,+inf,indeterminate
+six-shot Ridge,Davis:CAMK1:CAMK1D,Davis:CAMK1:CAMK1D:07,1.0,margin,-inf,+inf,indeterminate
+six-shot Ridge,Davis:CAMK2A:CAMK2D,Davis:CAMK2A:CAMK2D:07,1.0,target,-inf,-0.34678748622465605,negative
+six-shot Ridge,Davis:CAMK2A:CAMK2D,Davis:CAMK2A:CAMK2D:07,1.0,margin,-inf,+inf,indeterminate
+six-shot Ridge,Davis:CLK1:CLK4,Davis:CLK1:CLK4:07,1.0,target,-inf,-1.2218487496163561,negative
+six-shot Ridge,Davis:CLK1:CLK4,Davis:CLK1:CLK4:07,1.0,margin,-inf,+inf,indeterminate
+six-shot Ridge,Davis:CSNK1D:CSNK1E,Davis:CSNK1D:CSNK1E:11,1.0,target,-inf,+inf,indeterminate
+six-shot Ridge,Davis:CSNK1D:CSNK1E,Davis:CSNK1D:CSNK1E:11,1.0,margin,-inf,+inf,indeterminate
+six-shot Ridge,Davis:CSNK1G1:CSNK1G2,Davis:CSNK1G1:CSNK1G2:06,-1.0,target,-inf,+inf,indeterminate
+six-shot Ridge,Davis:CSNK1G1:CSNK1G2,Davis:CSNK1G1:CSNK1G2:06,-1.0,margin,-inf,+inf,indeterminate
+six-shot Ridge,Davis:CSNK2A1:CSNK2A2,Davis:CSNK2A1:CSNK2A2:08,1.0,target,-inf,+inf,indeterminate
+six-shot Ridge,Davis:CSNK2A1:CSNK2A2,Davis:CSNK2A1:CSNK2A2:08,1.0,margin,-inf,+inf,indeterminate
+six-shot Ridge,Davis:JNK1:JNK3,Davis:JNK1:JNK3:08,1.0,target,-inf,+inf,indeterminate
+six-shot Ridge,Davis:JNK1:JNK3,Davis:JNK1:JNK3:08,1.0,margin,-inf,+inf,indeterminate
+six-shot Ridge,Davis:MEK1:MEK2,Davis:MEK1:MEK2:11,1.0,target,-inf,+inf,indeterminate
+six-shot Ridge,Davis:MEK1:MEK2,Davis:MEK1:MEK2:11,1.0,margin,-inf,+inf,indeterminate
+six-shot Theil-Sen,Davis:AKT1:AKT2,Davis:AKT1:AKT2:09,1.0,target,-inf,+inf,indeterminate
+six-shot Theil-Sen,Davis:AKT1:AKT2,Davis:AKT1:AKT2:09,1.0,margin,-inf,+inf,indeterminate
+six-shot Theil-Sen,Davis:CAMK1:CAMK1D,Davis:CAMK1:CAMK1D:10,1.0,target,-inf,+inf,indeterminate
+six-shot Theil-Sen,Davis:CAMK1:CAMK1D,Davis:CAMK1:CAMK1D:10,1.0,margin,-inf,+inf,indeterminate
+six-shot Theil-Sen,Davis:CAMK2A:CAMK2D,Davis:CAMK2A:CAMK2D:11,1.0,target,-inf,+inf,indeterminate
+six-shot Theil-Sen,Davis:CAMK2A:CAMK2D,Davis:CAMK2A:CAMK2D:11,1.0,margin,-inf,+inf,indeterminate
+six-shot Theil-Sen,Davis:CLK1:CLK4,Davis:CLK1:CLK4:10,1.0,target,-inf,+inf,indeterminate
+six-shot Theil-Sen,Davis:CLK1:CLK4,Davis:CLK1:CLK4:10,1.0,margin,-inf,+inf,indeterminate
+six-shot Theil-Sen,Davis:CSNK1D:CSNK1E,Davis:CSNK1D:CSNK1E:06,-1.0,target,-inf,+inf,indeterminate
+six-shot Theil-Sen,Davis:CSNK1D:CSNK1E,Davis:CSNK1D:CSNK1E:06,-1.0,margin,-inf,+inf,indeterminate
+six-shot Theil-Sen,Davis:CSNK1G1:CSNK1G2,Davis:CSNK1G1:CSNK1G2:06,-1.0,target,-inf,+inf,indeterminate
+six-shot Theil-Sen,Davis:CSNK1G1:CSNK1G2,Davis:CSNK1G1:CSNK1G2:06,-1.0,margin,-inf,+inf,indeterminate
+six-shot Theil-Sen,Davis:CSNK2A1:CSNK2A2,Davis:CSNK2A1:CSNK2A2:09,-1.0,target,-inf,-0.9208187539523749,negative
+six-shot Theil-Sen,Davis:CSNK2A1:CSNK2A2,Davis:CSNK2A1:CSNK2A2:09,-1.0,margin,-inf,0.16461144137225148,indeterminate
+six-shot Theil-Sen,Davis:JNK1:JNK3,Davis:JNK1:JNK3:08,1.0,target,-inf,+inf,indeterminate
+six-shot Theil-Sen,Davis:JNK1:JNK3,Davis:JNK1:JNK3:08,1.0,margin,-inf,+inf,indeterminate
+six-shot Theil-Sen,Davis:MEK1:MEK2,Davis:MEK1:MEK2:11,1.0,target,-inf,+inf,indeterminate
+six-shot Theil-Sen,Davis:MEK1:MEK2,Davis:MEK1:MEK2:11,1.0,margin,-inf,+inf,indeterminate

@@ -1,0 +1,84 @@
+{
+  "archived_outcome_reconstruction": {
+    "decoupled_outcomes_recomputed": 624,
+    "docking": false,
+    "experiments": [
+      {
+        "hist_counts": [
+          28,
+          21,
+          28,
+          21
+        ],
+        "level": "floor5_9.9pct"
+      },
+      {
+        "hist_counts": [
+          28,
+          15,
+          27,
+          12
+        ],
+        "level": "global_q25_24.9pct"
+      }
+    ],
+    "external_ceiling_slots": 164,
+    "external_endpoint_intervals": 108,
+    "external_evaluation_slots": 216,
+    "external_frozen_choices": 54,
+    "historical_tasks": 39,
+    "model_refitting": false,
+    "original_potency_slots": 1872,
+    "status": "pass"
+  },
+  "auxiliary_response_curve_refitted": false,
+  "dependencies": {
+    "numpy": "2.1.3",
+    "scikit-learn": "1.6.1",
+    "scipy": "1.15.3"
+  },
+  "fresh_model_refitting": {
+    "docking_recomputed": false,
+    "external_frozen_choices_reproduced": 54,
+    "external_tasks": 9,
+    "gpu_used": false,
+    "historical_counts": {
+      "Global Hist": 25,
+      "Global Ridge": 22,
+      "HIST-SAFE": 28,
+      "Ridge": 21,
+      "Theil-Sen": 23,
+      "Vina-MO": 20
+    },
+    "historical_tasks": 39,
+    "independent_counts": {
+      "sixshot_ridge": 9,
+      "sixshot_theilsen": 10,
+      "vina_mo": 13
+    },
+    "response_curve_included": false,
+    "resumed_checkpoints": 0,
+    "status": "pass"
+  },
+  "numerical_module_imports": "pass",
+  "optional_docking": {
+    "external_installation_validated": false,
+    "fresh_docking_run": false
+  },
+  "python_version": "3.13.5",
+  "single_task_resource_and_recovery": {
+    "checkpoint_resume": "pass",
+    "cpu_threads": 1,
+    "fault_before_commit": "pass",
+    "gpu_used": false,
+    "one_task_fit": "pass",
+    "recovery": "pass",
+    "status": "pass",
+    "timeout_exit": "pass"
+  },
+  "status": "pass",
+  "table_export": {
+    "status": "pass",
+    "tables": 3
+  }
+}
