@@ -1,0 +1,43 @@
+{
+  "protocol": "CP decision consequences and corrected Davis re-selection v1",
+  "locked_at": "2026-11-23T00:00:00+08:00",
+  "historical_primary_tasks": 21,
+  "historical_task_filter": "compound-disjoint calibration/evaluation rows; homogeneous Ki or homogeneous IC50 endpoints",
+  "learning_intervention": {
+    "floor": 5.61261017366127,
+    "evaluation_labels": "original values without the artificial floor",
+    "comparison": "q25-clipped learning versus original learning"
+  },
+  "decision_consequences": {
+    "paired_endpoints": [
+      "target gain difference",
+      "selectivity-margin gain difference",
+      "change in realized maximin regret"
+    ],
+    "change_classes": ["unchanged", "orientation_reversal", "different_pair"],
+    "regret_definition": "oracle maximin utility minus selected maximin utility; endpoint scales are median absolute original calibration gains",
+    "uncertainty": "20,000 task bootstrap replicates, seed 20261117",
+    "directional_test": "exact sign test excluding ties"
+  },
+  "davis_reselection": {
+    "tasks": 9,
+    "donors": "all 21 strict historical tasks",
+    "donor_calibration_features": "leave-one-pair-out cross-fitted",
+    "held_task_adaptation": "six calibration pairs with 0.5 median residual correction",
+    "candidate_features": "previously frozen Vina features",
+    "evaluation_labels_available_to_selection": false,
+    "docking_recomputed": false,
+    "interpretation": "retrospective corrected-model external consistency analysis because Davis labels were previously revealed"
+  },
+  "reporting_limit": {
+    "dataset": "Davis kinase Kd matrix",
+    "ceiling_nm": 10000,
+    "capped_pKd_interval": "(-infinity, 5]",
+    "endpoint_categories": ["positive", "negative", "unresolved"]
+  },
+  "compute": {
+    "GPU": false,
+    "cpu_threads": 1,
+    "required_preflight": ["single task", "failure injection", "recovery", "resume", "timeout"]
+  }
+}

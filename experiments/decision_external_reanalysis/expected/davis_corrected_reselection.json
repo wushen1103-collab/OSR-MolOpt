@@ -1,0 +1,1624 @@
+{
+  "GPU": false,
+  "changed_vs_historical_frozen_selection": {
+    "Global Hist": 6,
+    "Global Ridge": 5,
+    "HIST-SAFE": 7,
+    "Ridge": 0,
+    "Theil-Sen": 0,
+    "Vina-MO": 0
+  },
+  "cpu_threads": 1,
+  "docking_recomputed": false,
+  "donor_tasks": 21,
+  "evaluation_slot_count": 216,
+  "evaluation_slots_at_10000nM": 164,
+  "external_tasks": 9,
+  "fingerprint": "4a1d029d5cc3ac2765e97a713ddc43f909fb9421fe9824842aed911b0133b25e",
+  "historical_labels_were_previously_revealed": true,
+  "resumed_checkpoints": 1,
+  "selection_reads_evaluation_labels": false,
+  "selections": {
+    "Davis:AKT1:AKT2": {
+      "Global Hist": {
+        "orientation": 1.0,
+        "predicted_margin": 0.7116207046545049,
+        "predicted_target": 2.501677181754666,
+        "row_id": "Davis:AKT1:AKT2:06",
+        "selection_score": 0.7116207046545049
+      },
+      "Global Ridge": {
+        "orientation": -1.0,
+        "predicted_margin": 16184.231788100373,
+        "predicted_target": 60957.13245461461,
+        "row_id": "Davis:AKT1:AKT2:09",
+        "selection_score": 16184.231788100373
+      },
+      "HIST-SAFE": {
+        "orientation": 1.0,
+        "predicted_margin": 0.5856299274198286,
+        "predicted_target": 0.8588334994324751,
+        "row_id": "Davis:AKT1:AKT2:06",
+        "selection_score": 0.5856299274198286
+      },
+      "Ridge": {
+        "orientation": 1.0,
+        "predicted_margin": 113030.15500158329,
+        "predicted_target": 250840.30207756502,
+        "row_id": "Davis:AKT1:AKT2:09",
+        "selection_score": 113030.15500158329
+      },
+      "Theil-Sen": {
+        "orientation": 1.0,
+        "predicted_margin": 1.331886788480534e-05,
+        "predicted_target": 0.0001502493660128525,
+        "row_id": "Davis:AKT1:AKT2:09",
+        "selection_score": 1.331886788480534e-05
+      },
+      "Vina-MO": {
+        "orientation": 1.0,
+        "predicted_margin": 1.7422096317280482,
+        "predicted_target": 0.9839080459770123,
+        "row_id": "Davis:AKT1:AKT2:09",
+        "selection_score": 0.9839080459770123
+      }
+    },
+    "Davis:CAMK1:CAMK1D": {
+      "Global Hist": {
+        "orientation": 1.0,
+        "predicted_margin": 1.0553428713793163,
+        "predicted_target": 3.308777443846758,
+        "row_id": "Davis:CAMK1:CAMK1D:10",
+        "selection_score": 1.0553428713793163
+      },
+      "Global Ridge": {
+        "orientation": 1.0,
+        "predicted_margin": 60033.42689052027,
+        "predicted_target": 341811.756092331,
+        "row_id": "Davis:CAMK1:CAMK1D:09",
+        "selection_score": 60033.42689052027
+      },
+      "HIST-SAFE": {
+        "orientation": 1.0,
+        "predicted_margin": 0.762435677784374,
+        "predicted_target": 1.606647054125483,
+        "row_id": "Davis:CAMK1:CAMK1D:10",
+        "selection_score": 0.762435677784374
+      },
+      "Ridge": {
+        "orientation": 1.0,
+        "predicted_margin": 118171.12664478405,
+        "predicted_target": 348648.95239213656,
+        "row_id": "Davis:CAMK1:CAMK1D:07",
+        "selection_score": 118171.12664478405
+      },
+      "Theil-Sen": {
+        "orientation": 1.0,
+        "predicted_margin": 33497.021931491785,
+        "predicted_target": 0.003113134214012899,
+        "row_id": "Davis:CAMK1:CAMK1D:10",
+        "selection_score": 0.003113134214012899
+      },
+      "Vina-MO": {
+        "orientation": -1.0,
+        "predicted_margin": 2.8142076502732274,
+        "predicted_target": 1.5012987012987014,
+        "row_id": "Davis:CAMK1:CAMK1D:09",
+        "selection_score": 1.5012987012987014
+      }
+    },
+    "Davis:CAMK2A:CAMK2D": {
+      "Global Hist": {
+        "orientation": 1.0,
+        "predicted_margin": 0.7074749977279722,
+        "predicted_target": 2.524846909636933,
+        "row_id": "Davis:CAMK2A:CAMK2D:08",
+        "selection_score": 0.7074749977279722
+      },
+      "Global Ridge": {
+        "orientation": -1.0,
+        "predicted_margin": 3.3150747242568315,
+        "predicted_target": 32.734489131791634,
+        "row_id": "Davis:CAMK2A:CAMK2D:06",
+        "selection_score": 3.3150747242568315
+      },
+      "HIST-SAFE": {
+        "orientation": 1.0,
+        "predicted_margin": 1.5820746738006588,
+        "predicted_target": 1.7701164886184548,
+        "row_id": "Davis:CAMK2A:CAMK2D:08",
+        "selection_score": 1.5820746738006588
+      },
+      "Ridge": {
+        "orientation": 1.0,
+        "predicted_margin": 11.131458496628614,
+        "predicted_target": 714703.1123817177,
+        "row_id": "Davis:CAMK2A:CAMK2D:07",
+        "selection_score": 11.131458496628614
+      },
+      "Theil-Sen": {
+        "orientation": 1.0,
+        "predicted_margin": 0.014671216961586811,
+        "predicted_target": 0.00018721180647649182,
+        "row_id": "Davis:CAMK2A:CAMK2D:11",
+        "selection_score": 0.00018721180647649182
+      },
+      "Vina-MO": {
+        "orientation": -1.0,
+        "predicted_margin": 2.3254545454545457,
+        "predicted_target": 11.957516339869278,
+        "row_id": "Davis:CAMK2A:CAMK2D:06",
+        "selection_score": 2.3254545454545457
+      }
+    },
+    "Davis:CLK1:CLK4": {
+      "Global Hist": {
+        "orientation": 1.0,
+        "predicted_margin": 0.548337518135641,
+        "predicted_target": 0.23219065348188464,
+        "row_id": "Davis:CLK1:CLK4:09",
+        "selection_score": 0.23219065348188464
+      },
+      "Global Ridge": {
+        "orientation": -1.0,
+        "predicted_margin": 0.36223361416719385,
+        "predicted_target": 1.0009103894438895,
+        "row_id": "Davis:CLK1:CLK4:06",
+        "selection_score": 0.36223361416719385
+      },
+      "HIST-SAFE": {
+        "orientation": 1.0,
+        "predicted_margin": 0.7972135144456091,
+        "predicted_target": 0.879940965386922,
+        "row_id": "Davis:CLK1:CLK4:09",
+        "selection_score": 0.7972135144456091
+      },
+      "Ridge": {
+        "orientation": 1.0,
+        "predicted_margin": 1.334259313056767,
+        "predicted_target": 0.8562700882862657,
+        "row_id": "Davis:CLK1:CLK4:07",
+        "selection_score": 0.8562700882862657
+      },
+      "Theil-Sen": {
+        "orientation": 1.0,
+        "predicted_margin": 1.028764749839346,
+        "predicted_target": 0.6132736295366717,
+        "row_id": "Davis:CLK1:CLK4:10",
+        "selection_score": 0.6132736295366717
+      },
+      "Vina-MO": {
+        "orientation": 1.0,
+        "predicted_margin": 2.0388571428571436,
+        "predicted_target": 1.538135593220339,
+        "row_id": "Davis:CLK1:CLK4:09",
+        "selection_score": 1.538135593220339
+      }
+    },
+    "Davis:CSNK1D:CSNK1E": {
+      "Global Hist": {
+        "orientation": -1.0,
+        "predicted_margin": 1.1416113607161527,
+        "predicted_target": 1.296772934784735,
+        "row_id": "Davis:CSNK1D:CSNK1E:09",
+        "selection_score": 1.1416113607161527
+      },
+      "Global Ridge": {
+        "orientation": 1.0,
+        "predicted_margin": 0.3026270430262137,
+        "predicted_target": 1.354400824836533,
+        "row_id": "Davis:CSNK1D:CSNK1E:06",
+        "selection_score": 0.3026270430262137
+      },
+      "HIST-SAFE": {
+        "orientation": -1.0,
+        "predicted_margin": 0.9949634809324105,
+        "predicted_target": 1.2029228784591668,
+        "row_id": "Davis:CSNK1D:CSNK1E:09",
+        "selection_score": 0.9949634809324105
+      },
+      "Ridge": {
+        "orientation": 1.0,
+        "predicted_margin": 0.5139606601130098,
+        "predicted_target": 0.5185382739421195,
+        "row_id": "Davis:CSNK1D:CSNK1E:11",
+        "selection_score": 0.5139606601130098
+      },
+      "Theil-Sen": {
+        "orientation": -1.0,
+        "predicted_margin": 0.587033013585057,
+        "predicted_target": 0.3880014203520449,
+        "row_id": "Davis:CSNK1D:CSNK1E:06",
+        "selection_score": 0.3880014203520449
+      },
+      "Vina-MO": {
+        "orientation": -1.0,
+        "predicted_margin": 1.690836653386453,
+        "predicted_target": 0.958500669344042,
+        "row_id": "Davis:CSNK1D:CSNK1E:07",
+        "selection_score": 0.958500669344042
+      }
+    },
+    "Davis:CSNK1G1:CSNK1G2": {
+      "Global Hist": {
+        "orientation": 1.0,
+        "predicted_margin": 0.7126732696516155,
+        "predicted_target": 2.8975598859550535,
+        "row_id": "Davis:CSNK1G1:CSNK1G2:06",
+        "selection_score": 0.7126732696516155
+      },
+      "Global Ridge": {
+        "orientation": 1.0,
+        "predicted_margin": 3909.7382462116525,
+        "predicted_target": 103317.37700163793,
+        "row_id": "Davis:CSNK1G1:CSNK1G2:09",
+        "selection_score": 3909.7382462116525
+      },
+      "HIST-SAFE": {
+        "orientation": 1.0,
+        "predicted_margin": 0.5081103243287255,
+        "predicted_target": 0.16002379499202757,
+        "row_id": "Davis:CSNK1G1:CSNK1G2:06",
+        "selection_score": 0.16002379499202757
+      },
+      "Ridge": {
+        "orientation": -1.0,
+        "predicted_margin": 293870.89987900713,
+        "predicted_target": 170718.29290481392,
+        "row_id": "Davis:CSNK1G1:CSNK1G2:06",
+        "selection_score": 170718.29290481392
+      },
+      "Theil-Sen": {
+        "orientation": -1.0,
+        "predicted_margin": 471405.8011793989,
+        "predicted_target": 4.5307831116679735e-05,
+        "row_id": "Davis:CSNK1G1:CSNK1G2:06",
+        "selection_score": 4.5307831116679735e-05
+      },
+      "Vina-MO": {
+        "orientation": 1.0,
+        "predicted_margin": 1.8032378580323896,
+        "predicted_target": 1.3431916204559469,
+        "row_id": "Davis:CSNK1G1:CSNK1G2:07",
+        "selection_score": 1.3431916204559469
+      }
+    },
+    "Davis:CSNK2A1:CSNK2A2": {
+      "Global Hist": {
+        "orientation": 1.0,
+        "predicted_margin": 0.6763706535604512,
+        "predicted_target": 3.44862254168708,
+        "row_id": "Davis:CSNK2A1:CSNK2A2:10",
+        "selection_score": 0.6763706535604512
+      },
+      "Global Ridge": {
+        "orientation": 1.0,
+        "predicted_margin": 59648.9512692338,
+        "predicted_target": 224650.03749488137,
+        "row_id": "Davis:CSNK2A1:CSNK2A2:06",
+        "selection_score": 59648.9512692338
+      },
+      "HIST-SAFE": {
+        "orientation": 1.0,
+        "predicted_margin": 0.5196182322170738,
+        "predicted_target": 2.871760739150079,
+        "row_id": "Davis:CSNK2A1:CSNK2A2:10",
+        "selection_score": 0.5196182322170738
+      },
+      "Ridge": {
+        "orientation": 1.0,
+        "predicted_margin": -21060.90537121729,
+        "predicted_target": 210465.95402279467,
+        "row_id": "Davis:CSNK2A1:CSNK2A2:08",
+        "selection_score": -21060.90537121729
+      },
+      "Theil-Sen": {
+        "orientation": -1.0,
+        "predicted_margin": 0.0032988465967421546,
+        "predicted_target": 44463.27969314002,
+        "row_id": "Davis:CSNK2A1:CSNK2A2:09",
+        "selection_score": 0.0032988465967421546
+      },
+      "Vina-MO": {
+        "orientation": -1.0,
+        "predicted_margin": 4.52565445026177,
+        "predicted_target": 9.94767441860467,
+        "row_id": "Davis:CSNK2A1:CSNK2A2:06",
+        "selection_score": 4.52565445026177
+      }
+    },
+    "Davis:JNK1:JNK3": {
+      "Global Hist": {
+        "orientation": 1.0,
+        "predicted_margin": 0.7442937605974093,
+        "predicted_target": 2.757575634923493,
+        "row_id": "Davis:JNK1:JNK3:08",
+        "selection_score": 0.7442937605974093
+      },
+      "Global Ridge": {
+        "orientation": 1.0,
+        "predicted_margin": 1.941562057949267,
+        "predicted_target": 20.350438083941796,
+        "row_id": "Davis:JNK1:JNK3:08",
+        "selection_score": 1.941562057949267
+      },
+      "HIST-SAFE": {
+        "orientation": 1.0,
+        "predicted_margin": 1.0643990161938974,
+        "predicted_target": 2.557433880788668,
+        "row_id": "Davis:JNK1:JNK3:08",
+        "selection_score": 1.0643990161938974
+      },
+      "Ridge": {
+        "orientation": 1.0,
+        "predicted_margin": 0.9424585518493718,
+        "predicted_target": 495244.6615857937,
+        "row_id": "Davis:JNK1:JNK3:08",
+        "selection_score": 0.9424585518493718
+      },
+      "Theil-Sen": {
+        "orientation": 1.0,
+        "predicted_margin": 1.1664952138147102,
+        "predicted_target": 0.004013460336611689,
+        "row_id": "Davis:JNK1:JNK3:08",
+        "selection_score": 0.004013460336611689
+      },
+      "Vina-MO": {
+        "orientation": 1.0,
+        "predicted_margin": 1.8408488063660424,
+        "predicted_target": 1.2265265922521342,
+        "row_id": "Davis:JNK1:JNK3:08",
+        "selection_score": 1.2265265922521342
+      }
+    },
+    "Davis:MEK1:MEK2": {
+      "Global Hist": {
+        "orientation": 1.0,
+        "predicted_margin": 0.7043336223161164,
+        "predicted_target": 2.71110891257026,
+        "row_id": "Davis:MEK1:MEK2:06",
+        "selection_score": 0.7043336223161164
+      },
+      "Global Ridge": {
+        "orientation": 1.0,
+        "predicted_margin": 0.4835815422524675,
+        "predicted_target": 0.7811586384621764,
+        "row_id": "Davis:MEK1:MEK2:11",
+        "selection_score": 0.4835815422524675
+      },
+      "HIST-SAFE": {
+        "orientation": 1.0,
+        "predicted_margin": 0.19302477275535634,
+        "predicted_target": 2.879348492042851,
+        "row_id": "Davis:MEK1:MEK2:06",
+        "selection_score": 0.19302477275535634
+      },
+      "Ridge": {
+        "orientation": 1.0,
+        "predicted_margin": -0.6765977968857799,
+        "predicted_target": 1.3066647178091808,
+        "row_id": "Davis:MEK1:MEK2:11",
+        "selection_score": -0.6765977968857799
+      },
+      "Theil-Sen": {
+        "orientation": 1.0,
+        "predicted_margin": 0.4778518584995771,
+        "predicted_target": 1.1945276561675597,
+        "row_id": "Davis:MEK1:MEK2:11",
+        "selection_score": 0.4778518584995771
+      },
+      "Vina-MO": {
+        "orientation": 1.0,
+        "predicted_margin": 1.7527795945062152,
+        "predicted_target": 0.865928659286593,
+        "row_id": "Davis:MEK1:MEK2:11",
+        "selection_score": 0.865928659286593
+      }
+    }
+  },
+  "status": "complete_retrospective_corrected_external_reselection",
+  "summaries": {
+    "Global Hist": {
+      "certified_negative": 1,
+      "certified_positive": 0,
+      "mean_plugin_margin": 0.0428802939141395,
+      "mean_plugin_target": 0.1728386513370784,
+      "plugin_dual_success": 0,
+      "plugin_severe": 0,
+      "unresolved": 8
+    },
+    "Global Ridge": {
+      "certified_negative": 1,
+      "certified_positive": 1,
+      "mean_plugin_margin": -0.14412003383322977,
+      "mean_plugin_target": 0.186597160919182,
+      "plugin_dual_success": 1,
+      "plugin_severe": 1,
+      "unresolved": 7
+    },
+    "HIST-SAFE": {
+      "certified_negative": 1,
+      "certified_positive": 0,
+      "mean_plugin_margin": 0.0428802939141395,
+      "mean_plugin_target": 0.1728386513370784,
+      "plugin_dual_success": 0,
+      "plugin_severe": 0,
+      "unresolved": 8
+    },
+    "Ridge": {
+      "certified_negative": 2,
+      "certified_positive": 0,
+      "mean_plugin_margin": -0.007328986294329098,
+      "mean_plugin_target": -0.1742929150934458,
+      "plugin_dual_success": 0,
+      "plugin_severe": 2,
+      "unresolved": 7
+    },
+    "Theil-Sen": {
+      "certified_negative": 1,
+      "certified_positive": 0,
+      "mean_plugin_margin": 0.018290160152472385,
+      "mean_plugin_target": -0.1023131948835972,
+      "plugin_dual_success": 0,
+      "plugin_severe": 0,
+      "unresolved": 8
+    },
+    "Vina-MO": {
+      "certified_negative": 2,
+      "certified_positive": 1,
+      "mean_plugin_margin": 0.10397039599408557,
+      "mean_plugin_target": 0.29032770375089867,
+      "plugin_dual_success": 1,
+      "plugin_severe": 1,
+      "unresolved": 6
+    }
+  },
+  "task_results": {
+    "Global Hist": [
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": -0.06048074738138176,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:AKT1:AKT2:06",
+        "severe": false,
+        "target": 0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:AKT1:AKT2"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": 0.0,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:CAMK1:CAMK1D:10",
+        "severe": false,
+        "target": 0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:CAMK1:CAMK1D"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": 0.0,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:CAMK2A:CAMK2D:08",
+        "severe": false,
+        "target": 0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:CAMK2A:CAMK2D"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": -0.11598389395537367,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:CLK1:CLK4:09",
+        "severe": false,
+        "target": 2.1938200260161125,
+        "target_interval": [
+          2.1938200260161125,
+          "+inf"
+        ],
+        "target_status": "positive",
+        "task": "Davis:CLK1:CLK4"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "negative",
+        "fully_identified": false,
+        "margin": 0.5623872865640109,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": -1.0,
+        "row_id": "Davis:CSNK1D:CSNK1E:09",
+        "severe": false,
+        "target": -0.6382721639824069,
+        "target_interval": [
+          "-inf",
+          -0.6382721639824069
+        ],
+        "target_status": "negative",
+        "task": "Davis:CSNK1D:CSNK1E"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": 0.0,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:CSNK1G1:CSNK1G2:06",
+        "severe": false,
+        "target": 0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:CSNK1G1:CSNK1G2"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": 0.0,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:CSNK2A1:CSNK2A2:10",
+        "severe": false,
+        "target": 0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:CSNK2A1:CSNK2A2"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": 0.0,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:JNK1:JNK3:08",
+        "severe": false,
+        "target": 0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:JNK1:JNK3"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": 0.0,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:MEK1:MEK2:06",
+        "severe": false,
+        "target": 0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:MEK1:MEK2"
+      }
+    ],
+    "Global Ridge": [
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": -0.0,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": -1.0,
+        "row_id": "Davis:AKT1:AKT2:09",
+        "severe": false,
+        "target": -0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:AKT1:AKT2"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": -0.421852166077449,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:CAMK1:CAMK1D:09",
+        "severe": false,
+        "target": 0.8538719643217618,
+        "target_interval": [
+          0.8538719643217618,
+          "+inf"
+        ],
+        "target_status": "positive",
+        "task": "Davis:CAMK1:CAMK1D"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "negative",
+        "fully_identified": false,
+        "margin": -0.5623872865640109,
+        "margin_interval": [
+          "-inf",
+          -0.5623872865640109
+        ],
+        "margin_status": "negative",
+        "orientation": -1.0,
+        "row_id": "Davis:CAMK2A:CAMK2D:06",
+        "severe": true,
+        "target": -0.34678748622465605,
+        "target_interval": [
+          "-inf",
+          -0.34678748622465605
+        ],
+        "target_status": "negative",
+        "task": "Davis:CAMK2A:CAMK2D"
+      },
+      {
+        "dual_success": true,
+        "endpoint_status": "positive",
+        "fully_identified": true,
+        "margin": 0.1768375979262533,
+        "margin_interval": [
+          0.1768375979262533,
+          0.1768375979262533
+        ],
+        "margin_status": "positive",
+        "orientation": -1.0,
+        "row_id": "Davis:CLK1:CLK4:06",
+        "severe": false,
+        "target": 0.25147121622315716,
+        "target_interval": [
+          0.25147121622315716,
+          0.25147121622315716
+        ],
+        "target_status": "positive",
+        "task": "Davis:CLK1:CLK4"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": 0.0,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:CSNK1D:CSNK1E:06",
+        "severe": false,
+        "target": 0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:CSNK1D:CSNK1E"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": -0.3157532524846882,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:CSNK1G1:CSNK1G2:09",
+        "severe": false,
+        "target": 0.9208187539523749,
+        "target_interval": [
+          0.9208187539523749,
+          "+inf"
+        ],
+        "target_status": "positive",
+        "task": "Davis:CSNK1G1:CSNK1G2"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": -0.1739251972991731,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:CSNK2A1:CSNK2A2:06",
+        "severe": false,
+        "target": 0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:CSNK2A1:CSNK2A2"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": 0.0,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:JNK1:JNK3:08",
+        "severe": false,
+        "target": 0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:JNK1:JNK3"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": 0.0,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:MEK1:MEK2:11",
+        "severe": false,
+        "target": 0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:MEK1:MEK2"
+      }
+    ],
+    "HIST-SAFE": [
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": -0.06048074738138176,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:AKT1:AKT2:06",
+        "severe": false,
+        "target": 0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:AKT1:AKT2"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": 0.0,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:CAMK1:CAMK1D:10",
+        "severe": false,
+        "target": 0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:CAMK1:CAMK1D"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": 0.0,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:CAMK2A:CAMK2D:08",
+        "severe": false,
+        "target": 0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:CAMK2A:CAMK2D"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": -0.11598389395537367,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:CLK1:CLK4:09",
+        "severe": false,
+        "target": 2.1938200260161125,
+        "target_interval": [
+          2.1938200260161125,
+          "+inf"
+        ],
+        "target_status": "positive",
+        "task": "Davis:CLK1:CLK4"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "negative",
+        "fully_identified": false,
+        "margin": 0.5623872865640109,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": -1.0,
+        "row_id": "Davis:CSNK1D:CSNK1E:09",
+        "severe": false,
+        "target": -0.6382721639824069,
+        "target_interval": [
+          "-inf",
+          -0.6382721639824069
+        ],
+        "target_status": "negative",
+        "task": "Davis:CSNK1D:CSNK1E"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": 0.0,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:CSNK1G1:CSNK1G2:06",
+        "severe": false,
+        "target": 0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:CSNK1G1:CSNK1G2"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": 0.0,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:CSNK2A1:CSNK2A2:10",
+        "severe": false,
+        "target": 0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:CSNK2A1:CSNK2A2"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": 0.0,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:JNK1:JNK3:08",
+        "severe": false,
+        "target": 0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:JNK1:JNK3"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": 0.0,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:MEK1:MEK2:06",
+        "severe": false,
+        "target": 0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:MEK1:MEK2"
+      }
+    ],
+    "Ridge": [
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": 0.0,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:AKT1:AKT2:09",
+        "severe": false,
+        "target": 0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:AKT1:AKT2"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": 1.0078253375119566,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:CAMK1:CAMK1D:07",
+        "severe": false,
+        "target": 0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:CAMK1:CAMK1D"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "negative",
+        "fully_identified": false,
+        "margin": -0.34678748622465605,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:CAMK2A:CAMK2D:07",
+        "severe": true,
+        "target": -0.34678748622465605,
+        "target_interval": [
+          "-inf",
+          -0.34678748622465605
+        ],
+        "target_status": "negative",
+        "task": "Davis:CAMK2A:CAMK2D"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "negative",
+        "fully_identified": false,
+        "margin": -0.7269987279362624,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:CLK1:CLK4:07",
+        "severe": true,
+        "target": -1.2218487496163561,
+        "target_interval": [
+          "-inf",
+          -1.2218487496163561
+        ],
+        "target_status": "negative",
+        "task": "Davis:CLK1:CLK4"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": 0.0,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:CSNK1D:CSNK1E:11",
+        "severe": false,
+        "target": 0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:CSNK1D:CSNK1E"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": -0.0,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": -1.0,
+        "row_id": "Davis:CSNK1G1:CSNK1G2:06",
+        "severe": false,
+        "target": -0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:CSNK1G1:CSNK1G2"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": 0.0,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:CSNK2A1:CSNK2A2:08",
+        "severe": false,
+        "target": 0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:CSNK2A1:CSNK2A2"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": 0.0,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:JNK1:JNK3:08",
+        "severe": false,
+        "target": 0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:JNK1:JNK3"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": 0.0,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:MEK1:MEK2:11",
+        "severe": false,
+        "target": 0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:MEK1:MEK2"
+      }
+    ],
+    "Theil-Sen": [
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": 0.0,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:AKT1:AKT2:09",
+        "severe": false,
+        "target": 0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:AKT1:AKT2"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": 0.0,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:CAMK1:CAMK1D:10",
+        "severe": false,
+        "target": 0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:CAMK1:CAMK1D"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": 0.0,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:CAMK2A:CAMK2D:11",
+        "severe": false,
+        "target": 0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:CAMK2A:CAMK2D"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": 0.0,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:CLK1:CLK4:10",
+        "severe": false,
+        "target": 0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:CLK1:CLK4"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": -0.0,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": -1.0,
+        "row_id": "Davis:CSNK1D:CSNK1E:06",
+        "severe": false,
+        "target": -0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:CSNK1D:CSNK1E"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": -0.0,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": -1.0,
+        "row_id": "Davis:CSNK1G1:CSNK1G2:06",
+        "severe": false,
+        "target": -0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:CSNK1G1:CSNK1G2"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "negative",
+        "fully_identified": false,
+        "margin": 0.16461144137225148,
+        "margin_interval": [
+          "-inf",
+          0.16461144137225148
+        ],
+        "margin_status": "indeterminate",
+        "orientation": -1.0,
+        "row_id": "Davis:CSNK2A1:CSNK2A2:09",
+        "severe": false,
+        "target": -0.9208187539523749,
+        "target_interval": [
+          "-inf",
+          -0.9208187539523749
+        ],
+        "target_status": "negative",
+        "task": "Davis:CSNK2A1:CSNK2A2"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": 0.0,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:JNK1:JNK3:08",
+        "severe": false,
+        "target": 0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:JNK1:JNK3"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": 0.0,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:MEK1:MEK2:11",
+        "severe": false,
+        "target": 0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:MEK1:MEK2"
+      }
+    ],
+    "Vina-MO": [
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": 0.0,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:AKT1:AKT2:09",
+        "severe": false,
+        "target": 0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:AKT1:AKT2"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "negative",
+        "fully_identified": false,
+        "margin": 0.421852166077449,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": -1.0,
+        "row_id": "Davis:CAMK1:CAMK1D:09",
+        "severe": false,
+        "target": -0.8538719643217618,
+        "target_interval": [
+          "-inf",
+          -0.8538719643217618
+        ],
+        "target_status": "negative",
+        "task": "Davis:CAMK1:CAMK1D"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "negative",
+        "fully_identified": false,
+        "margin": -0.5623872865640109,
+        "margin_interval": [
+          "-inf",
+          -0.5623872865640109
+        ],
+        "margin_status": "negative",
+        "orientation": -1.0,
+        "row_id": "Davis:CAMK2A:CAMK2D:06",
+        "severe": true,
+        "target": -0.34678748622465605,
+        "target_interval": [
+          "-inf",
+          -0.34678748622465605
+        ],
+        "target_status": "negative",
+        "task": "Davis:CAMK2A:CAMK2D"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": -0.11598389395537367,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:CLK1:CLK4:09",
+        "severe": false,
+        "target": 2.1938200260161125,
+        "target_interval": [
+          2.1938200260161125,
+          "+inf"
+        ],
+        "target_status": "positive",
+        "task": "Davis:CLK1:CLK4"
+      },
+      {
+        "dual_success": true,
+        "endpoint_status": "positive",
+        "fully_identified": false,
+        "margin": 1.1987834455476634,
+        "margin_interval": [
+          1.1987834455476634,
+          "+inf"
+        ],
+        "margin_status": "positive",
+        "orientation": -1.0,
+        "row_id": "Davis:CSNK1D:CSNK1E:07",
+        "severe": false,
+        "target": 1.6197887582883936,
+        "target_interval": [
+          1.6197887582883936,
+          "+inf"
+        ],
+        "target_status": "positive",
+        "task": "Davis:CSNK1D:CSNK1E"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": -0.18045606445813078,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:CSNK1G1:CSNK1G2:07",
+        "severe": false,
+        "target": 0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:CSNK1G1:CSNK1G2"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": 0.1739251972991731,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": -1.0,
+        "row_id": "Davis:CSNK2A1:CSNK2A2:06",
+        "severe": false,
+        "target": -0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:CSNK2A1:CSNK2A2"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": 0.0,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:JNK1:JNK3:08",
+        "severe": false,
+        "target": 0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:JNK1:JNK3"
+      },
+      {
+        "dual_success": false,
+        "endpoint_status": "unresolved",
+        "fully_identified": false,
+        "margin": 0.0,
+        "margin_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "margin_status": "indeterminate",
+        "orientation": 1.0,
+        "row_id": "Davis:MEK1:MEK2:11",
+        "severe": false,
+        "target": 0.0,
+        "target_interval": [
+          "-inf",
+          "+inf"
+        ],
+        "target_status": "indeterminate",
+        "task": "Davis:MEK1:MEK2"
+      }
+    ]
+  }
+}

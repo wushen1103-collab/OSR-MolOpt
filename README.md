@@ -154,3 +154,16 @@ clipped-learning success are both 10/21, with 14/21 choices changed at the
 fixed higher floor. These corrected aggregate results supersede the earlier
 implementation's deterioration claim. Use the reanalysis-specific environment
 and commands for that analysis.
+
+The follow-up [decision-consequence and corrected Davis
+reanalysis](experiments/decision_external_reanalysis/) shows that the 14 strict-view
+changes comprise 13 changes of compound pair and one orientation reversal.
+Six clipped-learning choices Pareto-dominate their original-learning choices,
+five are dominated, and three form target--margin trade-offs. The paired mean
+maximin-regret change is +0.144 (95% bootstrap interval -0.564 to +0.926), so
+the evidence supports consequential reprioritization without a systematic
+quality shift. Re-training on the 21 strict cross-fitted donors changes seven
+of nine historical HIST-SAFE Davis choices. Eight corrected outcomes remain
+unresolved under the 10,000 nM reporting limit and one is ruled out as a dual
+improvement. Run `python verify.py` in that experiment directory for the
+published checks, then `python runner.py audit` before any fresh refit.

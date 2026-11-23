@@ -1,0 +1,11 @@
+{
+  "GPU": false,
+  "cpu_threads": 1,
+  "evaluation_label_invariance": "pass",
+  "failure_injection": "pass",
+  "one_task": "pass",
+  "recovery": "pass",
+  "resume": "pass",
+  "status": "pass",
+  "timeout": "pass"
+}
