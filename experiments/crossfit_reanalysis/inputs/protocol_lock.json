@@ -1,0 +1,46 @@
+{
+  "GPU": false,
+  "baselines": [
+    "Vina-MO",
+    "local Theil-Sen",
+    "local Ridge",
+    "Global Hist",
+    "Global Ridge"
+  ],
+  "bootstrap_draws": 20000,
+  "bootstrap_seed": 20261117,
+  "calibration_pairs": 6,
+  "candidate_pool_fixed_within_each_2x2": true,
+  "cpu_threads": 1,
+  "crossfit": "Each donor calibration row uses other five rows for local fits, preprocessing, response scaling and task descriptors; donor evaluation uses all six",
+  "design": "Retrospective reanalysis; no new independent validation claim",
+  "evaluation_views": [
+    "original",
+    "clipped"
+  ],
+  "failure_timeout_resume_required": true,
+  "identity_levels": [
+    "raw_id",
+    "parent_id",
+    "standard_inchi_key",
+    "standardized_parent_inchi_key"
+  ],
+  "learning_floors": [
+    "original",
+    5.0,
+    "fixed_original39_global_q25"
+  ],
+  "metadata_limits": "Worksheet certifies measurement type, not identical assay conditions; no missing assay identifier inferred",
+  "minimum_primary_evaluation_pairs": 6,
+  "mixed_task_policy": "Exclude entire mixed endpoint-type task from primary and donor training",
+  "model_seed": 20261117,
+  "no_selection_hyperparameter_tuning": true,
+  "primary_training_pool": "Primary eligible tasks only; outer leave-one-task-out",
+  "secondary_endpoint_strata": [
+    "Ki",
+    "IC50"
+  ],
+  "secondary_training_pool": "All 39 original tasks for explicit cross-fitting isolation",
+  "smoke_required_before_full_run": true,
+  "version": "cp-crossfit-1"
+}

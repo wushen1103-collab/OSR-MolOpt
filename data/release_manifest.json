@@ -332,6 +332,171 @@
       "sha256": "f4b9465e9d82e35259b50f21a56d674fd13fd3956e01311739bdfadd0c7a6760"
     },
     {
+      "bytes": 80,
+      "file": "experiments/crossfit_reanalysis/code/osrmolopt/__init__.py",
+      "sha256": "a378849184f9dc3405d2debee67121a4c4e5582eb3e1cb3541339342bf2332d1"
+    },
+    {
+      "bytes": 3922,
+      "file": "experiments/crossfit_reanalysis/code/osrmolopt/__main__.py",
+      "sha256": "1e441abaf1ec31e2ed1420b32c9765b985571949aa62c5505415f7bebaf6d63e"
+    },
+    {
+      "bytes": 3153,
+      "file": "experiments/crossfit_reanalysis/code/osrmolopt/classifiers.py",
+      "sha256": "db26cb801d6f1bf210d3e7ca29959fa730aad6329e4b4fbe06dbda51784e36db"
+    },
+    {
+      "bytes": 2107,
+      "file": "experiments/crossfit_reanalysis/code/osrmolopt/data_io.py",
+      "sha256": "0f7576390677681ac4488e564a9c53b08057e54705e4505cd6b156d114dee3f9"
+    },
+    {
+      "bytes": 6794,
+      "file": "experiments/crossfit_reanalysis/code/osrmolopt/decoupling.py",
+      "sha256": "431fefe193dedca6ec63203ecc2f765910d0a9437bbd9850c5368cf1de0896ea"
+    },
+    {
+      "bytes": 12388,
+      "file": "experiments/crossfit_reanalysis/code/osrmolopt/docking.py",
+      "sha256": "21c0f9d16017e1ef78bce248ad735b87aa0b84161e7502cd53c3f70c0c697a4e"
+    },
+    {
+      "bytes": 1640,
+      "file": "experiments/crossfit_reanalysis/code/osrmolopt/external_evaluation.py",
+      "sha256": "d8b48eb5bad05088bfc6f65b124e64f7c3be21acd3475eb50906a5725a089714"
+    },
+    {
+      "bytes": 2202,
+      "file": "experiments/crossfit_reanalysis/code/osrmolopt/external_selection.py",
+      "sha256": "90f724822dc280d99156cd6a6a0b163b45afc7d9e2bf28255600ac331d31f069"
+    },
+    {
+      "bytes": 8036,
+      "file": "experiments/crossfit_reanalysis/code/osrmolopt/gates.py",
+      "sha256": "fd33e10a3724d35d0c9c05881604fa44c0380c56e0fdad167f5445c0f2445910"
+    },
+    {
+      "bytes": 4886,
+      "file": "experiments/crossfit_reanalysis/code/osrmolopt/independent.py",
+      "sha256": "ac5ca981715dbbb419f2ce030744f47e2d0d7067c9d59d8c167366f4269ea5f5"
+    },
+    {
+      "bytes": 2762,
+      "file": "experiments/crossfit_reanalysis/code/osrmolopt/interventions.py",
+      "sha256": "a1140ef4e2934748ee78b0824ca008904c7765781af0cfe34ab74a415b8fcc8e"
+    },
+    {
+      "bytes": 8766,
+      "file": "experiments/crossfit_reanalysis/code/osrmolopt/models.py",
+      "sha256": "350ee452a05a23a9d201c8e26c77b3ce3d467eed55652231225f66895b3330f5"
+    },
+    {
+      "bytes": 4651,
+      "file": "experiments/crossfit_reanalysis/code/osrmolopt/nested_gates.py",
+      "sha256": "147d281bfcb95595670781f7eae85da438c23c797946f049329a5018a7f56d01"
+    },
+    {
+      "bytes": 7100,
+      "file": "experiments/crossfit_reanalysis/code/osrmolopt/refit.py",
+      "sha256": "b69d9fff84fbdbcdae6a1141de060e1f8201693c1fd4199ee358aef026e78fb7"
+    },
+    {
+      "bytes": 1598,
+      "file": "experiments/crossfit_reanalysis/code/osrmolopt/reporting_limits.py",
+      "sha256": "b406beed680a1eff33b2c3b6c7e28049f89e4899e4e1291ebd64fc95f3629a6f"
+    },
+    {
+      "bytes": 5608,
+      "file": "experiments/crossfit_reanalysis/code/osrmolopt/verify.py",
+      "sha256": "18d802235d24fc78be5f36b1f620de5349970e8c8d1d4d7b15ca89ee82f63e95"
+    },
+    {
+      "bytes": 3784418,
+      "file": "experiments/crossfit_reanalysis/expected/crossfit_results.json",
+      "sha256": "6931672e9fdb6b6bbd388f98daceb5889aa562deef3f169b126860512add85be"
+    },
+    {
+      "bytes": 305,
+      "file": "experiments/crossfit_reanalysis/expected/eligibility_summary.json",
+      "sha256": "ab759b83c3432f4b7dc4f75751ac6f464b381bff21344769dd36f5f2250061b8"
+    },
+    {
+      "bytes": 175,
+      "file": "experiments/crossfit_reanalysis/expected/resource_audit.json",
+      "sha256": "7e868f676aa1edb1560f05d6a9d5ccf44329b5c3b3199f7ae3ad8fe5f7572a64"
+    },
+    {
+      "bytes": 322,
+      "file": "experiments/crossfit_reanalysis/expected/verification.json",
+      "sha256": "9c6c1ce5da93815f57f5a97966c074261452614e2125cc41a61daac3f57b4cb2"
+    },
+    {
+      "bytes": 204862,
+      "file": "experiments/crossfit_reanalysis/inputs/compound_identity_audit.json",
+      "sha256": "cc1c2422530ff48fdaad3c39ba9483ce914a61038b715a3712e4f3aaac8db18f"
+    },
+    {
+      "bytes": 364,
+      "file": "experiments/crossfit_reanalysis/inputs/curve_extension_protocol.json",
+      "sha256": "1416de5656178d3d145526c5e48c3135bd8ff266b4f4281f7d0bcd5e4a8dd742"
+    },
+    {
+      "bytes": 617,
+      "file": "experiments/crossfit_reanalysis/inputs/input_lock.json",
+      "sha256": "3d89b958508936e182e85263c9a1b4ca3ee1c9bf7b9f0f544621a925e174db93"
+    },
+    {
+      "bytes": 1488,
+      "file": "experiments/crossfit_reanalysis/inputs/protocol_lock.json",
+      "sha256": "5a91d794aa81c9a50e9d78733cbf30b69ecb6803ae6320bd5c877291f23146f1"
+    },
+    {
+      "bytes": 244704,
+      "file": "experiments/crossfit_reanalysis/inputs/selected_source_rows.json",
+      "sha256": "de89a93b8a710cec8223c6d28a7b62cf6adf419f49a0dec6ea5ed4d3339534e9"
+    },
+    {
+      "bytes": 230300,
+      "file": "experiments/crossfit_reanalysis/inputs/task_eligibility.json",
+      "sha256": "3bff8d7685dbb1658990a4ae6145fc7b74003d5bf23742f7ba41b8292946460c"
+    },
+    {
+      "bytes": 407565,
+      "file": "experiments/crossfit_reanalysis/inputs/tasks_original.json",
+      "sha256": "eaaf95b43f0473f6c395773a25df1605076f47c4ea940dbb828f1265a0c43e40"
+    },
+    {
+      "bytes": 219408,
+      "file": "experiments/crossfit_reanalysis/inputs/tasks_primary.json",
+      "sha256": "01e46fa85fc1ffff5a8e0eb58cc3762cd254dad5376d4917e89915d5510adc55"
+    },
+    {
+      "bytes": 305280,
+      "file": "experiments/crossfit_reanalysis/inputs/tasks_reduced_pool_sensitivity.json",
+      "sha256": "c369352f93566cb853da1bff85448c5832b49c476fc13fcbfc4fbed60ce11a66"
+    },
+    {
+      "bytes": 4210,
+      "file": "experiments/crossfit_reanalysis/README.md",
+      "sha256": "a3b06071c1c86668dcb316ca044651ccd9a943b8cec7118d4f4da8b3393d8d83"
+    },
+    {
+      "bytes": 48,
+      "file": "experiments/crossfit_reanalysis/requirements.txt",
+      "sha256": "863f7b3f5a5748591d1c02db976cfcac417f531791d567f1e2ccb7b59856f655"
+    },
+    {
+      "bytes": 9958,
+      "file": "experiments/crossfit_reanalysis/runner.py",
+      "sha256": "04a1514d584a351e795aa4a2063b376df2d5d5ec9bf904b43716362ee5714401"
+    },
+    {
+      "bytes": 5049,
+      "file": "experiments/crossfit_reanalysis/verify.py",
+      "sha256": "6d09c550929d03270730e1443c33180ed225d6fca86d1a9e9a8c692f5919e20d"
+    },
+    {
       "bytes": 1216,
       "file": "LICENSE",
       "sha256": "62da674df9c62da7b603469ba3d2895e30464af2d85c4220de059212f4d3a973"
@@ -417,9 +582,9 @@
       "sha256": "18d802235d24fc78be5f36b1f620de5349970e8c8d1d4d7b15ca89ee82f63e95"
     },
     {
-      "bytes": 7435,
+      "bytes": 8140,
       "file": "README.md",
-      "sha256": "32b3ab69390b47705e5634efa8500a09b9f1bb584d0c731e0d03d225e20f9ded"
+      "sha256": "f67fd4571ea5563b2a1b14c33ff8534c63dfa439f1a7e78d0644ab4254783bc7"
     },
     {
       "bytes": 47,

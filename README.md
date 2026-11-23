@@ -142,3 +142,15 @@ Public structural coordinates originate from the Protein Data Bank.
 Source identifiers and third-party attribution remain available for tracing
 each measurement. Data terms are described in [DATA_LICENSES.md](DATA_LICENSES.md).
 The implementation uses the [MIT license](LICENSE).
+
+## Corrected cross-fitting and compound-isolation analysis
+
+The original tables above describe the archived implementation. The corrected
+[compound-disjoint cross-fitting reanalysis](experiments/crossfit_reanalysis/)
+uses 21 strict tasks (seven Ki and 14 IC50), five prespecified donor-pool views,
+and 381 CPU-only outer fits. It reports changed choices, gain means, paired
+intervals and all negative results. In the strict view, original and
+clipped-learning success are both 10/21, with 14/21 choices changed at the
+fixed higher floor. These corrected aggregate results supersede the earlier
+implementation's deterioration claim. Use the reanalysis-specific environment
+and commands for that analysis.

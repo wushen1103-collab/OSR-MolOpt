@@ -1,0 +1,15 @@
+{
+  "status": "pass",
+  "reconstructed_outcomes": 7710,
+  "paired_comparisons": 240,
+  "primary_tasks": 21,
+  "strict_identity_levels": 4,
+  "homogeneous_types": {
+    "Ki": 7,
+    "IC50": 14
+  },
+  "unchanged_figure_files": 8,
+  "approved_data_figures_updated": 6,
+  "remote_fresh_outer_fits": 381,
+  "GPU_used": false
+}

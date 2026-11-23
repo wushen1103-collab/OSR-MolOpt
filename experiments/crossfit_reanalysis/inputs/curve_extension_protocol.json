@@ -1,0 +1,8 @@
+{
+  "purpose": "Retain original five-level response-curve figure without changing its chart form",
+  "scope": "Strict primary21 only",
+  "additional_floors": "Original39 potency-slot median and 75th percentile; unchanged original response-curve thresholds",
+  "same_model_hyperparameters": true,
+  "same_splits_and_candidates": true,
+  "no_outcome_tuning": true
+}

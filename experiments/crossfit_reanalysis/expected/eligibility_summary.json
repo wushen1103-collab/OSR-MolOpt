@@ -1,0 +1,15 @@
+{
+  "excluded_mixed_tasks": 6,
+  "historical_tasks": 39,
+  "homogeneous_primary_types": {
+    "IC50": 14,
+    "Ki": 7
+  },
+  "primary_cohorts": {
+    "confirmatory": 19,
+    "development": 2
+  },
+  "primary_tasks": 21,
+  "reduced_pool_sensitivity_tasks": 32,
+  "tasks_with_removed_evaluation_pairs": 17
+}

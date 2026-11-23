@@ -1,0 +1,10 @@
+{
+  "input_sha256": {
+    "compound_identity_audit.json": "c63c870c4d99a7c3e3e58aad5c1d16617fed868191c46c1cca3e3bf908b86ba2",
+    "task_eligibility.json": "42edd4aa7e46829f3e51ca5e5587e788403807ae0a54176fccaa0652d26cc6a5",
+    "tasks_original.json": "880c9252cc8efb31bcfc2799ce50dcce8f61eabf59b5fc30c3387bc16b689836",
+    "tasks_primary.json": "70cedb55c6709ec114402629b6eb3e6df494e29b75965a3b779b389be4bbbc47",
+    "tasks_reduced_pool_sensitivity.json": "fd1f2816866855e31b747c411549c21070617f91cdbb93fe9e7046eafc5ec0df"
+  },
+  "protocol_sha256": "dcface48a6c94e99c142a27fe9c766ffae20a6c44ec245747d36b8db29d82422"
+}
